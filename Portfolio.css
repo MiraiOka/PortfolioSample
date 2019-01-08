@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  width: 1170px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 180px 0 10px 0;
+  background-image: url(https://lh6.googleusercontent.com/0sbQQlUx0GVUGblpf6AF4cuUGgfwZ664rV6ZewOxs8a4Qmkzi8AyhRDeOQlOqj1x4NHG-g);
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.top-wrapper h1 {
+  font-size: 90px;
+  margin: 0px;
+}
+
+.top-wrapper p {
+  padding-top: 0px;
+  margin: 0px;
+  font-size: 24px;
+}
+
+.name {
+  font-size: 50px;
+}
