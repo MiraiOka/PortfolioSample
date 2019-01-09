@@ -6,7 +6,7 @@ a {
   text-decoration: none;
 }
 
-#top {
+.top {
   width: 100%;
   margin: 0 auto;
   padding-bottom: 180px;
@@ -35,7 +35,7 @@ header p {
   font-weight: 300;
 }
 
-#name {
+.name {
   font-family: "Hiragino Kaku Gothic ProN";
   font-size: 45px;
   font-weight: 300;
@@ -45,11 +45,11 @@ header p {
   color: white;
 }
 
-#about {
+.about {
   padding-right: 125px;
 }
 
-#contact {
+.contact {
   padding-left: 98px;
 }
 
@@ -57,7 +57,7 @@ header p {
   font-size: 30px;
 }
 
-#arrowImg {
+.arrowImg {
   padding-top: 100px;
   padding-bottom: 30px
 }
