@@ -14,7 +14,7 @@ a {
 
 .top-wrapper {
   padding: 170px 0 10px 0;
-  background-image: url(https://lh6.googleusercontent.com/0sbQQlUx0GVUGblpf6AF4cuUGgfwZ664rV6ZewOxs8a4Qmkzi8AyhRDeOQlOqj1x4NHG-g);
+  background-image: url("../img/sample_img/header.jpg");
   background-size: cover;
   color: white;
   text-align: center;
