@@ -1,10 +1,10 @@
 body {
   margin: 0;
-  font-family: sans-serif;
+  font-family: "Hiragino Maru Gothic ProN";
 }
 
 .container {
-  width: 1170px;
+  width: 100%;
   padding: 0 15px;
   margin: 0 auto;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 .top-wrapper h1 {
-  font-size: 90px;
+  font-size: 120px;
   margin: 0px;
 }
 
