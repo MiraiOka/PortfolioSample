@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+.top {
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 180px;
+}
+
+header {
+  padding: 170px 0 10px 0;
+  background-image: url("../img/sample_img/header.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0px;
+  font-family: "Hiragino Maru Gothic ProN";
+  font-size: 90px;
+  font-weight: 400;
+}
+
+header p {
+  padding-top: 0px;
+  margin: 0px;
+  font-family: "Hiragino Kaku Gothic ProN";
+  font-size: 23px;
+  font-weight: 300;
+}
+
+.name {
+  font-family: "Hiragino Kaku Gothic ProN";
+  font-size: 45px;
+  font-weight: 300;
+}
+
+.btn {
+  color: white;
+}
+
+.about {
+  padding-right: 125px;
+}
+
+.contact {
+  padding-left: 98px;
+}
+
+.top-btn {
+  font-size: 30px;
+}
+
+.arrowImg {
+  padding-top: 100px;
+  padding-bottom: 30px
+}
